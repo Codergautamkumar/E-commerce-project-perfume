@@ -1,0 +1,8 @@
+body{font-family: "Montserrat", serif; background: black;}
+
+.MuiBadge-badge {background: #ff5252 !important;}
+
+.ReactCollapse--collapse {transition: height 300ms; ease-in-out: !important; overflow: hidden;}
+
+.btn-blue{background: #8e72ee !important; color: #fff !important; padding: 8px 20px !important;}
+.btn-blue:hover{background: #8e75ee !important;}
